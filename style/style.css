@@ -1,0 +1,71 @@
+
+span.welcome{
+    background-color:black;
+    color:white;
+    padding:10px;
+}
+/* .icon{
+weight:10%
+size 10%;
+}*/
+.navbar-brand{ 
+    background-color: pink;
+    weight:25%;
+    font-weight: bold;
+
+}
+.img{
+    3%
+}
+
+.cupcake-form{
+    display: block;
+    
+    padding: 12px;
+    margin: 10px;
+    border: 4px solid #ff0000;
+    width: 50%;
+    
+
+}
+label{
+    display: block;
+    position: relative;
+
+}
+input{
+    display: block;
+    width: 50%;
+
+}select {
+    width: 50%;
+    padding:10px;
+    
+  }
+
+
+
+.btn{
+    padding: 10px;
+    background-color: blue;
+}
+.clock{
+    border: 4px soled #ff0000;
+}
+.red_cell {
+    
+    background-color: red;
+}
+
+.orange_cell {
+    
+    background-color: orange;
+}
+
+.green_cell {
+
+    background-color: green;
+}
+
+
+
